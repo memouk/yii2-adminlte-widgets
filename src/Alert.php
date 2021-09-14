@@ -1,12 +1,12 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\base\ErrorException;
 use yii\bootstrap4\Widget;
 
 /**
  * Class Alert
- * @package hail812\adminlte\widgets
+ * @package memouk\adminlte\widgets
  */
 class Alert extends Widget
 {
