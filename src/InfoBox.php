@@ -1,6 +1,6 @@
 <?php
 
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\helpers\Html;
 
