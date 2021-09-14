@@ -1,12 +1,12 @@
 <?php
 
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\helpers\Html;
 
 /**
  * Class Ribbon
- * @package hail812\adminlte\widgets
+ * @package memouk\adminlte\widgets
  *
  * ```php
  * echo Ribbon::widget([
