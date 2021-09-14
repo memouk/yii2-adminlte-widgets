@@ -1,5 +1,5 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\bootstrap4\Widget;
 
