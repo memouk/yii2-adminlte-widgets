@@ -1,5 +1,5 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\base\ErrorException;
 use yii\bootstrap4\Widget;
