@@ -1,12 +1,12 @@
 <?php
 
-namespace hail812\adminlte\widgets;
+namespace memouk\adminlte\widgets;
 
 use yii\helpers\Html;
 
 /**
  * Class SmallBox
- * @package hail812\adminlte\widgets
+ * @package memouk\adminlte\widgets
  */
 class SmallBox extends Widget
 {
